@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 40px;
+}
+
+.article-box {
+    width: 80%;
+    margin: auto;
+}
+
+.article-box h2 {
+    background-color: #d9f0d0;
+    padding: 12px;
+    margin: 0 0 20px 0;
+    font-size: 24px;
+}
+
+.article-content {
+    display: flex;
+    gap: 25px;
+}
+
+.image-section {
+    width: 180px;
+}
+
+.image-section img {
+    width: 170px;
+    height: 270px;
+    object-fit: cover;
+}
+
+.image-section p {
+    color: #777;
+    margin-top: 5px;
+}
+
+.text-section {
+    flex: 1;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.text-section p {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.text-section b {
+    color: #3366cc;
+}
+
+.text-section a {
+    color: #3366cc;
+    font-style: italic;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="10> 
+    <thread>
+        <th>id</th>
+        <th>roll no</th>
+        <th>Student name</th>
+        <th>email</th>
+    </thread>
+    <tr>
+        <td>1</td>
+        <td>78</td>
+        <td>Shubhi</td>
+        <td>shubhi@gmail.com</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td colspan="2">21</td>
+        </table>
+    </table>
+</body>
+</html>
